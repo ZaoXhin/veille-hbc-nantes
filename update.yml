@@ -1,0 +1,39 @@
+name: Actualiser la veille HBC Nantes
+
+on:
+  schedule:
+    # GitHub Actions utilise UTC. Les deux paires couvrent les transitions
+    # hiver/été; le script ne publie qu'à 09h00 et 17h00 heure de Paris.
+    - cron: '0 7,8,15,16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-hbc-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Mettre à jour le flux (sauter hors 9h/17h Paris)
+        run: python scripts/update.py --if-due
+      - name: Publier data.json si modifié
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "Aucun changement de données."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data.json
+            git commit -m "Mise à jour automatique de la veille"
+            git push
+          fi

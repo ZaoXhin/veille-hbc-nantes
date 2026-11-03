@@ -1,0 +1,308 @@
+{
+  "edition": "3 novembre 2026, 13h30",
+  "lastUpdated": "3 novembre 2026, 13h30",
+  "nextUpdate": "17h",
+  "articles": [
+    {
+      "id": "plock",
+      "date": "28 oct. 2026",
+      "dateSort": "2026-10-28",
+      "relevance": 5,
+      "theme": "Résultats",
+      "title": "Nantes tombe à Plock et quitte la Ligue des champions",
+      "summary": "Défaite 33-27 à Plock : le HBC Nantes est éliminé de la Ligue des champions dès la phase de groupes, une première pour le club. Nantes poursuit en EHF European League.",
+      "sources": [
+        {
+          "name": "HandNews",
+          "url": "https://handnews.fr/2026/ldc-m-nantes-tombe-a-plock-et-quitte-la-ligue-des-champions/"
+        },
+        {
+          "name": "HBC Nantes",
+          "url": "https://hbcnantes.com/actualites/le-h-sincline-sur-le-terrain-de-plock-et-met-un-terme-a-son-aventure-en-ehf-cl/"
+        }
+      ],
+      "confirmation": "Confirmé",
+      "confirmationType": "confirmed"
+    },
+    {
+      "id": "cesson",
+      "date": "31 oct. 2026",
+      "dateSort": "2026-10-31",
+      "relevance": 5,
+      "theme": "Résultats",
+      "title": "Succès nantais à Cesson-Rennes : 46–37",
+      "summary": "Le HBC Nantes s’impose à Cesson-Rennes lors de la 9e journée de Starligue.",
+      "sources": [
+        {
+          "name": "HBC Nantes",
+          "url": "https://hbcnantes.com/actualites/nantes-autoritaire-a-cesson-37-46/"
+        },
+        {
+          "name": "Ouest-France",
+          "url": "https://www.ouest-france.fr/sport/handball/hbc-nantes/hbc-nantes-nous-en-avions-besoin-savoure-nicolas-tournat-apres-le-carton-a-cesson-8c4e7f34-d56c-11f1-84f3-5611f158a658"
+        }
+      ],
+      "confirmation": "Confirmé · deux sources",
+      "confirmationType": "confirmed"
+    },
+    {
+      "id": "coupe",
+      "date": "3 nov. 2026",
+      "dateSort": "2026-11-03",
+      "relevance": 5,
+      "theme": "Coupes",
+      "title": "Quart de Coupe de France : déplacement à Toulouse",
+      "summary": "Nantes ira à Toulouse (Fenix) en quart de finale. Les matchs sont prévus les 18 ou 19 décembre ; date exacte à confirmer. Toulouse avait battu Nantes 30-29 à la H Arena fin septembre.",
+      "sources": [
+        {
+          "name": "Ouest-France",
+          "url": "https://www.ouest-france.fr/sport/handball/hbc-nantes/handball-coupe-de-france-le-hbc-nantes-et-cesson-rennes-pas-gates-par-le-tirage-au-sort-4aa34f9e-d77c-11f1-b736-5b9907ef0b5a"
+        }
+      ],
+      "confirmation": "À vérifier · date exacte",
+      "confirmationType": "review"
+    },
+    {
+      "id": "boycott",
+      "date": "30 oct. 2026",
+      "dateSort": "2026-10-30",
+      "relevance": 5,
+      "theme": "Club/Polémique",
+      "title": "Conférence annulée, pas de réponse à Ouest-France",
+      "summary": "Selon Ouest-France, le club a annulé sa conférence de presse et choisi de ne pas répondre au journal. Aucune explication connue ; le motif n’est pas confirmé.",
+      "sources": [
+        {
+          "name": "Ouest-France",
+          "url": "https://www.ouest-france.fr/sport/handball/hbc-nantes/handball-le-hbc-nantes-choisit-de-boycotter-ouest-france-eeeefcb4-d3d1-11f1-af78-2d36ec019942"
+        }
+      ],
+      "confirmation": "Motif non confirmé",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "calendrier-sr",
+      "date": "14 nov. 2026",
+      "dateSort": "2026-11-14",
+      "relevance": 4,
+      "theme": "Calendrier",
+      "title": "Nantes – Saint-Raphaël à la H Arena",
+      "summary": "Prochain match de Starligue : réception de Saint-Raphaël le 14 novembre à 19h.",
+      "sources": [
+        {
+          "name": "Site du club",
+          "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/"
+        }
+      ],
+      "confirmation": "Confirmé",
+      "confirmationType": "confirmed"
+    },
+    {
+      "id": "sélestat",
+      "date": "Week-end du 21 nov. 2026",
+      "dateSort": "2026-11-21",
+      "relevance": 4,
+      "theme": "Calendrier",
+      "title": "Réception de Sélestat",
+      "summary": "Le HBC Nantes reçoit Sélestat le week-end du 21 novembre. Horaire non précisé dans les éléments de veille.",
+      "sources": [],
+      "confirmation": "À vérifier · horaire",
+      "confirmationType": "review"
+    },
+    {
+      "id": "dodic",
+      "date": "1 oct. 2026",
+      "dateSort": "2026-10-01",
+      "relevance": 4,
+      "theme": "Effectif",
+      "title": "Mateja Dodić : arrivée rapportée par HandNews",
+      "summary": "HandNews rapporte l’arrivée de Mateja Dodić depuis le HC Zagreb. Information à revérifier avant publication.",
+      "sources": [
+        {
+          "name": "HandNews",
+          "url": "https://handnews.fr/2026/stl-le-hbc-nantes-tient-son-nouveau-renfort/"
+        }
+      ],
+      "confirmation": "À revérifier",
+      "confirmationType": "review"
+    },
+    {
+      "id": "chambery",
+      "date": "24 oct. 2026",
+      "dateSort": "2026-10-24",
+      "relevance": 3,
+      "theme": "Résultats",
+      "title": "Victoire 41–29 contre Chambéry",
+      "summary": "Le HBC Nantes s’impose 41-29 contre Chambéry.",
+      "sources": [
+        {
+          "name": "HBC Nantes",
+          "url": "https://hbcnantes.com/actualites/nantes-se-fait-plaisir-face-a-chambery-41-29/"
+        }
+      ],
+      "confirmation": "Confirmé",
+      "confirmationType": "confirmed"
+    },
+    {
+      "id": "semaine",
+      "date": "1 nov. 2026",
+      "dateSort": "2026-11-01",
+      "relevance": 3,
+      "theme": "Club/Polémique",
+      "title": "Publication du club sur la semaine internationale",
+      "summary": "Le club a publié une information consacrée à la semaine internationale.",
+      "sources": [
+        {
+          "name": "HBC Nantes",
+          "url": "https://hbcnantes.com/actualites/semaine-internationale-du-2-au-8-novembre-2026/"
+        }
+      ],
+      "confirmation": "Confirmé",
+      "confirmationType": "confirmed"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Résultats",
+      "items": [
+        "Plock : défaite 33-27 et élimination de la Ligue des champions ; poursuite en EHF European League.",
+        "Cesson-Rennes : victoire 46-37 (9e journée).",
+        "Chambéry : victoire 41-29 le 24 octobre."
+      ]
+    },
+    {
+      "name": "Coupes",
+      "items": [
+        "Quart de Coupe de France à Toulouse (Fenix), les 18 ou 19 décembre ; date exacte à confirmer.",
+        "Toulouse avait battu Nantes 30-29 à la H Arena fin septembre."
+      ]
+    },
+    {
+      "name": "Calendrier",
+      "items": [
+        "14 novembre, 19h : Nantes – Saint-Raphaël, H Arena.",
+        "Week-end du 21 novembre : réception de Sélestat."
+      ]
+    },
+    {
+      "name": "Effectif",
+      "items": [
+        "HandNews rapporte l’arrivée de Mateja Dodić depuis le HC Zagreb (information du 1er octobre), à revérifier."
+      ]
+    },
+    {
+      "name": "Club/Polémique",
+      "items": [
+        "Ouest-France rapporte l’annulation de la conférence et l’absence de réponse du club ; motif non confirmé.",
+        "Publication du club sur la semaine internationale."
+      ]
+    },
+    {
+      "name": "Classement",
+      "items": [
+        "Nantes indiqué 2e de Starligue derrière le PSG ; classement à actualiser avant publication."
+      ]
+    }
+  ],
+  "tweets": [
+    {
+      "theme": "Résultats · week-end",
+      "text": "Le HBC Nantes s’impose 46-37 à Cesson-Rennes lors de la 9e journée de Starligue. Le classement est à actualiser avant publication. 🤾",
+      "source": "HBC Nantes · Ouest-France",
+      "url": "https://hbcnantes.com/actualites/nantes-autoritaire-a-cesson-37-46/",
+      "risk": "Faible",
+      "riskType": "low"
+    },
+    {
+      "theme": "Parcours européen",
+      "text": "Le HBC Nantes s’incline 33-27 à Plock et quitte la Ligue des champions. Le club poursuit en EHF European League. 🤾",
+      "source": "HandNews · HBC Nantes",
+      "url": "https://hbcnantes.com/actualites/le-h-sincline-sur-le-terrain-de-plock-et-met-un-terme-a-son-aventure-en-ehf-cl/",
+      "risk": "Faible",
+      "riskType": "low"
+    },
+    {
+      "theme": "Coupe de France",
+      "text": "Quart de Coupe de France : le HBC Nantes ira à Toulouse. La date reste à confirmer, les matchs étant prévus les 18 ou 19 décembre. Toulouse s’était imposé 30-29 à la H Arena fin septembre. 🏆",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/sport/handball/hbc-nantes/handball-coupe-de-france-le-hbc-nantes-et-cesson-rennes-pas-gates-par-le-tirage-au-sort-4aa34f9e-d77c-11f1-b736-5b9907ef0b5a",
+      "risk": "Moyen",
+      "riskType": "medium"
+    },
+    {
+      "theme": "Avant-match · Saint-Raphaël",
+      "text": "Prochain rendez-vous à la H Arena : HBC Nantes – Saint-Raphaël, le 14 novembre à 19h. 🤾",
+      "source": "HBC Nantes",
+      "url": "https://hbcnantes.com/equipe-professionnelle/calendrier-et-resultats/",
+      "risk": "Faible",
+      "riskType": "low"
+    },
+    {
+      "theme": "Effectif · Dodić",
+      "text": "Brouillon bloqué — ne pas publier sans vérification de l’information sur l’arrivée de Mateja Dodić depuis le HC Zagreb.",
+      "source": "HandNews · information du 1er octobre",
+      "url": "https://handnews.fr/2026/stl-le-hbc-nantes-tient-son-nouveau-renfort/",
+      "risk": "Élevé",
+      "riskType": "high"
+    },
+    {
+      "theme": "Club · Ouest-France",
+      "text": "Selon Ouest-France, le club a choisi de ne pas répondre au journal. Le motif n’est pas confirmé.",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/sport/handball/hbc-nantes/handball-le-hbc-nantes-choisit-de-boycotter-ouest-france-eeeefcb4-d3d1-11f1-af78-2d36ec019942",
+      "risk": "Élevé",
+      "riskType": "high"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task-cesson",
+      "text": "Score de Cesson confirmé par deux sources",
+      "done": true
+    },
+    {
+      "id": "task-coupe",
+      "text": "Confirmer la date et l’horaire du quart à Toulouse",
+      "done": false
+    },
+    {
+      "id": "task-boycott",
+      "text": "Trouver la raison du boycott Ouest-France",
+      "done": false
+    },
+    {
+      "id": "task-dodic",
+      "text": "Revérifier l’arrivée de Mateja Dodić",
+      "done": false
+    },
+    {
+      "id": "task-classement",
+      "text": "Actualiser le classement Starligue",
+      "done": false
+    },
+    {
+      "id": "task-tweets",
+      "text": "Valider et programmer les tweets",
+      "done": false
+    }
+  ],
+  "matches": [
+    {
+      "date": "14 nov.",
+      "title": "Nantes – Saint-Raphaël",
+      "detail": "19h · H Arena · Starligue",
+      "type": "Domicile"
+    },
+    {
+      "date": "Week-end\n21 nov.",
+      "title": "Nantes – Sélestat",
+      "detail": "Horaire non précisé",
+      "type": "Domicile"
+    },
+    {
+      "date": "18 ou 19\ndéc.",
+      "title": "Toulouse – Nantes",
+      "detail": "Quart de Coupe de France · date exacte à confirmer",
+      "type": "Coupe"
+    }
+  ]
+}
