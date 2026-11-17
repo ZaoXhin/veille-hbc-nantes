@@ -1,27 +1,27 @@
 {
-  "edition": "lundi 16 novembre 2026, 17h53",
-  "lastUpdated": "16/11/2026 à 17:53 (heure de Paris)",
+  "edition": "mardi 17 novembre 2026, 17h47",
+  "lastUpdated": "17/11/2026 à 17:47 (heure de Paris)",
   "nextUpdate": "09h00 et 17h00 (heure de Paris)",
   "articles": [
     {
-      "id": "rss-16",
-      "date": "14 Nov 2026",
-      "dateSort": "2026-11-14",
-      "relevance": 5,
-      "theme": "Résultats",
-      "title": "HBC Nantes : victoire 36-23 contre Saint-Raphaël, le H accélère après la pause - https://infos-media-nantes.fr/",
-      "summary": "HBC Nantes : victoire 36-23 contre Saint-Raphaël, le H accélère après la pause https://infos-media-nantes.fr/",
+      "id": "rss-6",
+      "date": "17 Nov 2026",
+      "dateSort": "2026-11-17",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "Les bonnes raisons de venir à la H Arena ce samedi ! - HBCNantes",
+      "summary": "Les bonnes raisons de venir à la H Arena ce samedi ! HBCNantes",
       "sources": [
         {
-          "name": "https://infos-media-nantes.fr/",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVa1RZZVE4RElNSUxqNmM1SmFOeUpZYWh5Wlo2ZmRvS3RuS0wtTWd3REtoQS12eXBRVjg3bmhyVHFsUEtndGZBTVliN01qNWM?oc=5"
+          "name": "HBCNantes",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSkZQM2N6eWpDM3k5Z096UVNNTDBCak45bjZwcFpyeFlpN3hWcmo5R2xVZVdYRjVzT2JJdnhXRERwbEZHS0dEdUFfS05NNGc3ZHA4ZU96T1NlMC1MSW85Z0kxT1VrYzc1SHBhOWpTQ3FKb0NhUHNwM1BaQVk3NERsZ0YwNHByNkFjOWJJeHJtbw?oc=5"
         }
       ],
       "confirmation": "Article du flux RSS",
       "confirmationType": "reported"
     },
     {
-      "id": "rss-6",
+      "id": "rss-9",
       "date": "16 Nov 2026",
       "dateSort": "2026-11-16",
       "relevance": 4,
@@ -60,23 +60,6 @@
       "dateSort": "2026-11-15",
       "relevance": 4,
       "theme": "Club/Polémique",
-      "title": "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton - maville.com",
-      "summary": "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton maville.com",
-      "sources": [
-        {
-          "name": "maville.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2o2djRBWUlMbklWMlpqRTZjOElfaEcySUFoVU50S3FwbnZuVWJFR3NaclhGeFhJLWRTenFwSVVXS2xFaHZhZ0xKd01YS0t3bThOLTNhSHZfOENvdlJ5b1pFNUZyNnRsNUpkal9KeGZDOVdfam1ZN2NvYmdad01MeDlPYVdPcmcxV0Ezall0MklsZEFERWpkVEJmaWNlTTZuOWRCbTJmckRFYUdwVVA5blBNSDc0OXlsa3Vfa2JkY1M1TC1ISG93?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-5",
-      "date": "15 Nov 2026",
-      "dateSort": "2026-11-15",
-      "relevance": 4,
-      "theme": "Club/Polémique",
       "title": "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton - Ouest-France",
       "summary": "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton Ouest-France",
       "sources": [
@@ -89,7 +72,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-9",
+      "id": "rss-11",
       "date": "15 Nov 2026",
       "dateSort": "2026-11-15",
       "relevance": 4,
@@ -100,6 +83,40 @@
         {
           "name": "Journal Nantes Sport",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFRSVzZIaUxaeS00T1ROd0NzLXZSSTlvUlk0Y0IwS25pUzVOVlVEc0RKWUFKMzZ6cm1yR3c5TUYyOGJMT0p0YkJPMWxIcmh1aUVkR3dpVS1tYko4aEFzY3YyRmpwVlltZVhVcUlxUF9jTWxTdGp6TjBOcEtiNmFLLWFR?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-26",
+      "date": "15 Nov 2026",
+      "dateSort": "2026-11-15",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "Handball. HBC Nantes : Cinq semaines pour gagner, mais surtout se préparer - maville.com",
+      "summary": "Handball. HBC Nantes : Cinq semaines pour gagner, mais surtout se préparer maville.com",
+      "sources": [
+        {
+          "name": "maville.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcE5JbjhXM3lhZzdtRlRucEd4OFdZeXAwTGFQRmdkS0QyNGVFd2VCT3l3X21MXzZtd0NpMXkyTktPNkFHcG5SeWpMaXo4NkphcGdhcEhSNjVuR3JwY1l3THRtcW1yWUY2NEs0cmxQSlNhWlhoYUNiMlhpbTRLYXhNZDc2dXMzU2JVMXhfSUhvTWo1UTRSQmh2b04yNFhaUGpYRnRYakd5OWZuODhYamQ0dnpIZ3JkM1lQOUJCT3pod0hRTUNYLXhGWnc3Rjh1Q2xUTEp6bjh3?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-33",
+      "date": "15 Nov 2026",
+      "dateSort": "2026-11-15",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton - maville.com",
+      "summary": "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton maville.com",
+      "sources": [
+        {
+          "name": "maville.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2o2djRBWUlMbklWMlpqRTZjOElfaEcySUFoVU50S3FwbnZuVWJFR3NaclhGeFhJLWRTenFwSVVXS2xFaHZhZ0xKd01YS0t3bThOLTNhSHZfOENvdlJ5b1pFNUZyNnRsNUpkal9KeGZDOVdfam1ZN2NvYmdad01MeDlPYVdPcmcxV0Ezall0MklsZEFERWpkVEJmaWNlTTZuOWRCbTJmckRFYUdwVVA5blBNSDc0OXlsa3Vfa2JkY1M1TC1ISG93?oc=5"
         }
       ],
       "confirmation": "Article du flux RSS",
@@ -124,6 +141,23 @@
     },
     {
       "id": "rss-4",
+      "date": "14 Nov 2026",
+      "dateSort": "2026-11-14",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "Starligue. « Je suis content de la défense » : Thibaud Briet a apprécié le travail collectif du HBC Nantes - Ouest-France",
+      "summary": "Starligue. « Je suis content de la défense » : Thibaud Briet a apprécié le travail collectif du HBC Nantes Ouest-France",
+      "sources": [
+        {
+          "name": "Ouest-France",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLXgycmt5ZTlJcllFRmQ0ZWRwVkpWZE1tUV9faEU1NUM3a2Y4S19mX0hNWXBmb251VDFRZmdORlJ3LTJhVzdqbkNBSFhzSVptV1VrN1pjUkx4NTdGUmYwZXgtU3l1WkhIMFVxampSVFhpaHlKZDRMay1Vc1RjV1A5bFJ5dzA2RlpHV1JVakRkSzd1UG12NWlLZkhFY0tsTTlGR09TVXB2blJfNEw4ZjVCYVI1MFp6RzNGY3Z3Z1RTenYtSzRzd3lzNDV4cDBGaGRYY0RwQng2XzRvMHpzYVRyQjMwTUVXNlN5RkRTUUNyUldzX0Yzb1pncU5nd2tOZ0o1SWItNFJoNVdCSjVCOEVlRzNmZEJzNk50d0E?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-5",
       "date": "14 Nov 2026",
       "dateSort": "2026-11-14",
       "relevance": 4,
@@ -157,6 +191,74 @@
       "confirmationType": "reported"
     },
     {
+      "id": "rss-13",
+      "date": "14 Nov 2026",
+      "dateSort": "2026-11-14",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "Handball. Avec Johannes Marescot, le HBC Nantes va se frotter à un faux méchant - Ouest-France",
+      "summary": "Handball. Avec Johannes Marescot, le HBC Nantes va se frotter à un faux méchant Ouest-France",
+      "sources": [
+        {
+          "name": "Ouest-France",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTHU5QWt0cGZjV2VvU0ttV0JJN1ZYeEJRQUt3QUhSeENGdFFFelV5WmswbEpUU1UzVURHTC00WTB1Y25pRXd0cFRqNXRYd2ExRXIxMmMzVmpZWVVDU2piZ093eWdTRGU4aG1yM3FtSXVjY05CX0RyWW5oRk5PZlZBUC0xNlE4amxKSWd2QjBmOXkyM0NCNVNlUWJEZVhyZGFjb0dXRGdMWHdQdm5oTUNTOHBmVERGZDk3eVlPZDNLZm5Zenh3NkhERkVTdUJaMDZIbldpNndwc0RBLVZPM005UjlmX0xhaDAwRVZJUkhoRkh5ejVPVWZTOTd3Q2M?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-21",
+      "date": "14 Nov 2026",
+      "dateSort": "2026-11-14",
+      "relevance": 4,
+      "theme": "Résultats",
+      "title": "HBC Nantes : victoire 36-23 contre Saint-Raphaël, le H accélère après la pause - https://infos-media-nantes.fr/",
+      "summary": "HBC Nantes : victoire 36-23 contre Saint-Raphaël, le H accélère après la pause https://infos-media-nantes.fr/",
+      "sources": [
+        {
+          "name": "https://infos-media-nantes.fr/",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVa1RZZVE4RElNSUxqNmM1SmFOeUpZYWh5Wlo2ZmRvS3RuS0wtTWd3REtoQS12eXBRVjg3bmhyVHFsUEtndGZBTVliN01qNWM?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-42",
+      "date": "14 Nov 2026",
+      "dateSort": "2026-11-14",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "Starligue. « Je suis content de la défense » : Thibaud Briet a apprécié le travail collectif du HBC Nantes - maville.com",
+      "summary": "Starligue. « Je suis content de la défense » : Thibaud Briet a apprécié le travail collectif du HBC Nantes maville.com",
+      "sources": [
+        {
+          "name": "maville.com",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQb2lvSHJLZHdvODlBUW9fVS1BNTljMGdVZG5saDVFM2l6WU82ZGl5WmNIeUpmZFhrYm5NaFNxMkNOOURld1hJazRNOW5IbnMyMDJqTW0wY2lsSG1NWnRjeTRiOS1kMV8yN0FqTkg4T3dRQWg3Wi1qQXJtdWZlaGpqZnMzR05Rek8xTkFxOTBzcVVwTXMxSDNSZUREYWE5d2VybGJQLWNwX0pkeS1lZU9nLUdqZHFOT1ItM0JDQUlfM21HYXg2ZlVyNUpFYklMNTZtZElGZWJEcjNGR21aUnVzaUN5OURXNHRRdktQZ0Fvbmtoc1NT?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-64",
+      "date": "14 Nov 2026",
+      "dateSort": "2026-11-14",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "Devant son public de la H Arena, le HBC Nantes marche sur l’eau face à Saint-Raphaël (36-23) - https://www.live-mercato.com/",
+      "summary": "Devant son public de la H Arena, le HBC Nantes marche sur l’eau face à Saint-Raphaël (36-23) https://www.live-mercato.com/",
+      "sources": [
+        {
+          "name": "https://www.live-mercato.com/",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZmJaaFA5aG9UdkQzaWFNeFNhenk5bWM2ZWlaUzVUOWtZc1ZGYld2YUNYUmMzSXhFM0pxbE9GLUpPdjNqdGFHUDI1Tml0b3U4UU5aajRXY1NJWXFqTk9TQklBMjNfd05Ta090M1VWM2dCRVZORjExTE50dS1fQ2JzTFA3MzVNOUFmdFFjb1RWSHdKZzVBMjU3QmFCM0FBQm41eHBGdFAybXZITEpGa3c3T1lnUHZYd2dEM2dKcGtUMnNybnYtTElWWmFHQ3M?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
       "id": "rss-8",
       "date": "13 Nov 2026",
       "dateSort": "2026-11-13",
@@ -174,7 +276,58 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-64",
+      "id": "rss-10",
+      "date": "13 Nov 2026",
+      "dateSort": "2026-11-13",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "Grégory Cojean : \"Une belle énergie à l'entrainement\" - HBCNantes",
+      "summary": "Grégory Cojean : \"Une belle énergie à l'entrainement\" HBCNantes",
+      "sources": [
+        {
+          "name": "HBCNantes",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQXVaYzJaWmFvU1NIYm5UMzNSUU1KWDdOd0dQNXlJb0JGbDNybUc0aTVzN1Buc0Qta3REMmdteXdlN0lxRWRONklkRU91Ynk2OGpQUTFYOW94N09Na3BZTG4za01ocXV3M1M3WTRxV3VpWEJKLUlKa2JTWEpMLXFPT3VIdVZzNjk5MGc?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-19",
+      "date": "12 Nov 2026",
+      "dateSort": "2026-11-12",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "HBC Nantes : Championnat et Coupe, deux moteurs à passer en mode turbo - Journal Nantes Sport",
+      "summary": "HBC Nantes : Championnat et Coupe, deux moteurs à passer en mode turbo Journal Nantes Sport",
+      "sources": [
+        {
+          "name": "Journal Nantes Sport",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEVQblVkUUhSV0JVMWl3R0NVdTFrcy1ZSkdYbjNac0djNzl2ckZvakotRmhRdWlLUVpsUHVndS1HSEtWMDVjSFY4YmkwYzVHNFlZamZLTlVRbTU3TDl5NVZoT1p3U2QtRjNrWHFjdGRZNXFSSDg5dlRkdV82VlpHQzNBVlAtczBNdFRycUJJVWdHUkJq?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-31",
+      "date": "11 Nov 2026",
+      "dateSort": "2026-11-11",
+      "relevance": 4,
+      "theme": "Club/Polémique",
+      "title": "Handball à Nantes : trois grands matchs du HBC Nantes à domicile jusqu’au 13 décembre - infos-media-nantes.fr",
+      "summary": "Handball à Nantes : trois grands matchs du HBC Nantes à domicile jusqu’au 13 décembre infos-media-nantes.fr",
+      "sources": [
+        {
+          "name": "infos-media-nantes.fr",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjIzNEUtT2Utd2ZDcTVMRlhGZDNrTFVwS2VUMEpyanpQVzRJOGtaZ0I1TVk5NXAzYXRvR2NFelUxd2FEcUtVOVRERHpsSlhGOTRWdWIzQXdvRGRDRnRZVmMzV3ZYbXJGY0ZCT0t4LU0tbFhxbXROLVZZTmsxQVFVMTcyWFkwX0ZiQzkzbi1rTVk1NUhGZlZhcHA1WFk5eU5Ld1ZkTUYzQQ?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-76",
       "date": "01 Nov 2026",
       "dateSort": "2026-11-01",
       "relevance": 3,
@@ -191,7 +344,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-12",
+      "id": "rss-14",
       "date": "30 Oct 2026",
       "dateSort": "2026-10-30",
       "relevance": 3,
@@ -208,7 +361,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-10",
+      "id": "rss-12",
       "date": "29 Oct 2026",
       "dateSort": "2026-10-29",
       "relevance": 3,
@@ -225,7 +378,24 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-11",
+      "id": "rss-36",
+      "date": "29 Oct 2026",
+      "dateSort": "2026-10-29",
+      "relevance": 3,
+      "theme": "Club/Polémique",
+      "title": "Handball. Le HBC Nantes rattrapé par le doute - Ouest-France",
+      "summary": "Handball. Le HBC Nantes rattrapé par le doute Ouest-France",
+      "sources": [
+        {
+          "name": "Ouest-France",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQkl3bmVBczRlRm5hRkktUm5BZnNPMXNCYlFRNUx2ZlpmN0RMUFB0UGJtWUtmNmhQOTd2YUo1N0tYMHBSN0pKQ1p6Yi1aZlZ6cGx2UktUek1WbE1sWUZHZlNack9tenI1NEIxUmFvMlJvcGF3aldHSXNzQlJWT25hdDZrVlNXZWNDbzM3U21oaDZvVGhNYkpqbFhuX2FNSXpWcTM1NW1zVjVXdlFvOHpDd3haZ2ZVRnZhSzhIcTMzX1g4QU9ZbVdpdmMzR2xIeldH?oc=5"
+        }
+      ],
+      "confirmation": "Article du flux RSS",
+      "confirmationType": "reported"
+    },
+    {
+      "id": "rss-15",
       "date": "24 Oct 2026",
       "dateSort": "2026-10-24",
       "relevance": 3,
@@ -242,7 +412,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-13",
+      "id": "rss-16",
       "date": "24 Oct 2026",
       "dateSort": "2026-10-24",
       "relevance": 3,
@@ -259,7 +429,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-73",
+      "id": "rss-82",
       "date": "21 Oct 2026",
       "dateSort": "2026-10-21",
       "relevance": 3,
@@ -276,7 +446,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-32",
+      "id": "rss-41",
       "date": "14 Oct 2026",
       "dateSort": "2026-10-14",
       "relevance": 3,
@@ -293,7 +463,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-14",
+      "id": "rss-17",
       "date": "13 Oct 2026",
       "dateSort": "2026-10-13",
       "relevance": 3,
@@ -310,7 +480,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-15",
+      "id": "rss-18",
       "date": "13 Oct 2026",
       "dateSort": "2026-10-13",
       "relevance": 3,
@@ -327,7 +497,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-19",
+      "id": "rss-23",
       "date": "08 Oct 2026",
       "dateSort": "2026-10-08",
       "relevance": 3,
@@ -344,7 +514,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-22",
+      "id": "rss-24",
       "date": "03 Oct 2026",
       "dateSort": "2026-10-03",
       "relevance": 3,
@@ -361,7 +531,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-18",
+      "id": "rss-22",
       "date": "01 Oct 2026",
       "dateSort": "2026-10-01",
       "relevance": 3,
@@ -378,7 +548,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-57",
+      "id": "rss-69",
       "date": "01 Oct 2026",
       "dateSort": "2026-10-01",
       "relevance": 3,
@@ -395,7 +565,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-17",
+      "id": "rss-20",
       "date": "11 Sep 2026",
       "dateSort": "2026-09-11",
       "relevance": 3,
@@ -412,7 +582,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-27",
+      "id": "rss-34",
       "date": "08 Sep 2026",
       "dateSort": "2026-09-08",
       "relevance": 3,
@@ -429,7 +599,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-25",
+      "id": "rss-29",
       "date": "05 Sep 2026",
       "dateSort": "2026-09-05",
       "relevance": 3,
@@ -446,7 +616,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-62",
+      "id": "rss-72",
       "date": "28 Aug 2026",
       "dateSort": "2026-08-28",
       "relevance": 3,
@@ -463,7 +633,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-26",
+      "id": "rss-32",
       "date": "25 Aug 2026",
       "dateSort": "2026-08-25",
       "relevance": 3,
@@ -480,7 +650,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-20",
+      "id": "rss-25",
       "date": "24 Aug 2026",
       "dateSort": "2026-08-24",
       "relevance": 3,
@@ -497,7 +667,7 @@
       "confirmationType": "reported"
     },
     {
-      "id": "rss-21",
+      "id": "rss-27",
       "date": "31 Jul 2026",
       "dateSort": "2026-07-31",
       "relevance": 3,
@@ -508,176 +678,6 @@
         {
           "name": "HBCNantes",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0NUTWZUenduOG9VemNkUkU0WVlfaUNMNFl4eDNsemZHREdpX0dQWEFiUmZfSTlsR2Rfbm83eVMydmcySGhhRi1PWDBQMzc2TUJYV3gybFUzMlpVZ2dwaUl5YXpGVWFsTVdnZkZqV3dNVDlQY2pXUjYyMXNYeDcwT0pvUFJtMmttTWc?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-23",
-      "date": "29 Jul 2026",
-      "dateSort": "2026-07-29",
-      "relevance": 3,
-      "theme": "Coupes",
-      "title": "Dates et heures des matchs de Ligue des Champions - HBCNantes",
-      "summary": "Dates et heures des matchs de Ligue des Champions HBCNantes",
-      "sources": [
-        {
-          "name": "HBCNantes",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzJPQW10VVdkakRKSi1sWFlkWUcyWlVHNEc0aE9zQkZmWEhxWE1odDhwaEZpZWFRQmdXX2w3YWtJNVpwZm5iTWdYLUcwR0NJQWR5LWhLemc1UjV4UEhXQXdQRTJ0eWZGNHpBNjl5LUtFUkNyX2ozSUxJd0k3aFp4dUNZc3ZpVHpic2FXbTFn?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-44",
-      "date": "25 Jul 2026",
-      "dateSort": "2026-07-25",
-      "relevance": 3,
-      "theme": "Club/Polémique",
-      "title": "LE CHESNAY YVELINES HB vs HBC NANTES - Fédération Française de Handball",
-      "summary": "LE CHESNAY YVELINES HB vs HBC NANTES Fédération Française de Handball",
-      "sources": [
-        {
-          "name": "Fédération Française de Handball",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMUhCTEpGb19fazhPLW1IRmt0YnFJLWtNREhleFg5T1FMcGJZM2JCLTN4bmJORUwtb1ZGUExNS3BCa2RWeEtTSXMzMlhldlVycGlwLW8yUVhzdVUwUS1XWWtjTC1WX0NKMURpU2REemhSR1UyM3JnSjY5NU0zTVlvc0pCZFdTTVZLSjh1M1YwRGwwRDM5OEFkVnRKdmN3UWp0djI5VjFVNENhbG1aQ3I1cFEwLUNFMzhXWndtMFRQakhuVThqejJrbGFGUGtUZ1ljVjhF?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-24",
-      "date": "09 Jul 2026",
-      "dateSort": "2026-07-09",
-      "relevance": 3,
-      "theme": "Club/Polémique",
-      "title": "Match amical 26/08 : HBC Nantes - Caen à la H Arena - HBCNantes",
-      "summary": "Match amical 26/08 : HBC Nantes - Caen à la H Arena HBCNantes",
-      "sources": [
-        {
-          "name": "HBCNantes",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1dpV1NuaFdVY0EtZHd4OXMzZFVONGR6UDMyM0xBa2tRWjJmN3ZGU1BqOTFLd2dTSjlIMzZCZnBPZjJlSDk3dTdZNVVuSWg3NU1XbDBKd1d2Z2VkbFNaY19XTVllR25oVHh2R3RqZUUwbjlPWXRzbkkydFJkc09mWW51dlV1WkY2?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-28",
-      "date": "09 Jul 2026",
-      "dateSort": "2026-07-09",
-      "relevance": 3,
-      "theme": "Calendrier",
-      "title": "Le calendrier de la Daikin StarLigue 26-27 est connu ! - HBCNantes",
-      "summary": "Le calendrier de la Daikin StarLigue 26-27 est connu ! HBCNantes",
-      "sources": [
-        {
-          "name": "HBCNantes",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU2l1WEVubG11d21yMEpoWnlCUlVmR0k2WENmaG1vSzRkNlFWWUJCWHlZRnJPdUxNOC1fd05mZUlxdnBiVWRCR2o3X2NyQ09rZFJoUGNrbnpGeWxFclZ0Z0d6WTAyMUtyTGVRZkFJTWVpV0JfUVVydHhpeE9Ba2FfbWhQVlVRUHpjeUdPTGZSWQ?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-61",
-      "date": "04 Jul 2026",
-      "dateSort": "2026-07-04",
-      "relevance": 3,
-      "theme": "Club/Polémique",
-      "title": "LMS | Le HBC Nantes construit un projet commun avec le Nantes Loire Féminin - HandNews",
-      "summary": "LMS | Le HBC Nantes construit un projet commun avec le Nantes Loire Féminin HandNews",
-      "sources": [
-        {
-          "name": "HandNews",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHowalphN24xckh0R0xkd2tQSHpGZlV1X081YUFNYkVGOERoSWZpbXZQWVlFeTZpTlBMU2lhLTVIT2t1MGtLUGpCMUV4TGtGM3EzWjMtQjRVU1V2M096a05LMTRpYXhaWTByQldfR0hVOUp0M2J3Y1cxRzVtVG9WbzVfTkNOQTVkME5BLWpuWmFxc0FSSF81OFJjdEFGZE96?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-29",
-      "date": "01 Jul 2026",
-      "dateSort": "2026-07-01",
-      "relevance": 3,
-      "theme": "Club/Polémique",
-      "title": "Nouvelle étape dans le projet associatif du HBC Nantes - HBCNantes",
-      "summary": "Nouvelle étape dans le projet associatif du HBC Nantes HBCNantes",
-      "sources": [
-        {
-          "name": "HBCNantes",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQzFJam1rUFRvZnVyX191Mjk4VlVtWnBCUVpCRlJOQXZXWGRpWFdaUmk1Vmo5Zy15cnJ1WlNubmZKUW1pRXpGcUtXM213TTl6QUdqUmh6MXJibFdhT1NvT1ZTV2ZfcmdPcVdfdnhCNmVSMHpxM2tBd3lpRmdLcGJucXdmV1BaQjNTNmFrUG1CY2JNQQ?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-31",
-      "date": "26 Jun 2026",
-      "dateSort": "2026-06-26",
-      "relevance": 3,
-      "theme": "Coupes",
-      "title": "Le HBC Nantes connaît ses adversaires en Ligue des Champions - HBCNantes",
-      "summary": "Le HBC Nantes connaît ses adversaires en Ligue des Champions HBCNantes",
-      "sources": [
-        {
-          "name": "HBCNantes",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGdFOVFaVTduLXByRUVKS0pOaGVVMERWX1RGRU5uZ0RFUGVvYzhOVUNwdkdqOHE5Q1FuNGQyYUNOZVFIODFSeDI4MEFwY3pab3hJemN0OGFHajZZalo4MDJCVUExcnNvYXdEdXdCQjgxU2duWFQ1dmh4Q3lEV09xU1dERzF1VGE0d3FGMVdxbDl2TWJjN2tVLVZPcFo?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-30",
-      "date": "22 Jun 2026",
-      "dateSort": "2026-06-22",
-      "relevance": 3,
-      "theme": "Coupes",
-      "title": "Le HBC Nantes confirmé en Ligue des Champions 26-27 - HBCNantes",
-      "summary": "Le HBC Nantes confirmé en Ligue des Champions 26-27 HBCNantes",
-      "sources": [
-        {
-          "name": "HBCNantes",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3hwNFp6bHFXR2hBMUlzMTZUbWlpb3lHNWYwREFFWk1IbWh1THhDUVJpT1ZDTTVYYlZqVFFTUjhaM0xPc2twWjJRVHFlSHFoSERqTGFkSG0wejJNcC1FZFF5YUdoRlRMOGFXc09lc3ljeXdNaFV5c24xRWZnNmN1Uy1RcERhLXM0MXdMLWV3?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-74",
-      "date": "23 May 2026",
-      "dateSort": "2026-05-23",
-      "relevance": 3,
-      "theme": "Coupes",
-      "title": "CDF (M) | Montpellier remporte sa quinzième Coupe de France face au HBC Nantes - HandNews",
-      "summary": "CDF (M) | Montpellier remporte sa quinzième Coupe de France face au HBC Nantes HandNews",
-      "sources": [
-        {
-          "name": "HandNews",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaU9xZ1ZFLWFXWUJGUVdIYW9ILXI0azFMRVY4Tzh6TzB6U0V3cTc3NjBzOGhJS3VwU1dqZjh5UHhORm5UQjE4c3lPSDZGWTUtTjN0UEROU1A2TldMNGM2NllUemFwdXFjQ3VTX2w3UmVmTGozWVZNZm5pTElySHpOb3VhcE5FT1BaejZWSTFjT2hYbzRtbUoxelljMFhpOVVsT0Rr?oc=5"
-        }
-      ],
-      "confirmation": "Article du flux RSS",
-      "confirmationType": "reported"
-    },
-    {
-      "id": "rss-33",
-      "date": "06 May 2026",
-      "dateSort": "2026-05-06",
-      "relevance": 3,
-      "theme": "Club/Polémique",
-      "title": "Résumé Barça - HBC Nantes (31-21) - HBCNantes",
-      "summary": "Résumé Barça - HBC Nantes (31-21) HBCNantes",
-      "sources": [
-        {
-          "name": "HBCNantes",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93aFdOVU5vQkRpTWlQQ05JamZmQ0hYakdkczQwdWp2Yi1ZSlVYTnBTX3MzbjdJSzdEdzRnMjhGem5ZNmJ4NUpmWkswbUNtSkR6ZWhRZlNKX1BMcklCV3V3YUo4Znl5MVo0RDJ3?oc=5"
         }
       ],
       "confirmation": "Article du flux RSS",
@@ -696,18 +696,13 @@
     {
       "name": "Coupes",
       "items": [
-        "Le HBC Nantes reversé en EHF European League - HBCNantes",
-        "Dates et heures des matchs de Ligue des Champions - HBCNantes",
-        "Le HBC Nantes connaît ses adversaires en Ligue des Champions - HBCNantes",
-        "Le HBC Nantes confirmé en Ligue des Champions 26-27 - HBCNantes",
-        "CDF (M) | Montpellier remporte sa quinzième Coupe de France face au HBC Nantes - HandNews"
+        "Le HBC Nantes reversé en EHF European League - HBCNantes"
       ]
     },
     {
       "name": "Calendrier",
       "items": [
-        "Handball. Le HBC Nantes sous pression avant la réception de Melsungen : « Déjà qu’on prenne les 2 points », lance Cojean - Ouest-France",
-        "Le calendrier de la Daikin StarLigue 26-27 est connu ! - HBCNantes"
+        "Handball. Le HBC Nantes sous pression avant la réception de Melsungen : « Déjà qu’on prenne les 2 points », lance Cojean - Ouest-France"
       ]
     },
     {
@@ -719,23 +714,23 @@
     {
       "name": "Club/Polémique",
       "items": [
+        "Les bonnes raisons de venir à la H Arena ce samedi ! - HBCNantes",
         "Appel à projets solidaires 2027 - HBCNantes",
         "Handball. HBC Nantes : Cinq semaines pour gagner, mais surtout se préparer - Ouest-France",
-        "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton - maville.com",
         "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton - Ouest-France",
         "HBC Nantes : La réserve en impeccable leader incontesté - Journal Nantes Sport",
-        "Devant son public de la H Arena, le HBC Nantes marche sur l’eau face à Saint-Raphaël (36-23) - Tribune Nantaise"
+        "Handball. HBC Nantes : Cinq semaines pour gagner, mais surtout se préparer - maville.com"
       ]
     }
   ],
   "tweets": [
     {
-      "theme": "Résultats",
-      "text": "HBC Nantes : victoire 36-23 contre Saint-Raphaël, le H accélère après la pause - https://infos-media-nantes.fr/. À lire dans la source avant tout partage. 🤾",
-      "source": "https://infos-media-nantes.fr/",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVa1RZZVE4RElNSUxqNmM1SmFOeUpZYWh5Wlo2ZmRvS3RuS0wtTWd3REtoQS12eXBRVjg3bmhyVHFsUEtndGZBTVliN01qNWM?oc=5",
-      "risk": "À vérifier",
-      "riskType": "medium"
+      "theme": "Club/Polémique",
+      "text": "Les bonnes raisons de venir à la H Arena ce samedi ! - HBCNantes. À lire dans la source avant tout partage. 🤾",
+      "source": "HBCNantes",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSkZQM2N6eWpDM3k5Z096UVNNTDBCak45bjZwcFpyeFlpN3hWcmo5R2xVZVdYRjVzT2JJdnhXRERwbEZHS0dEdUFfS05NNGc3ZHA4ZU96T1NlMC1MSW85Z0kxT1VrYzc1SHBhOWpTQ3FKb0NhUHNwM1BaQVk3NERsZ0YwNHByNkFjOWJJeHJtbw?oc=5",
+      "risk": "Élevé",
+      "riskType": "high"
     },
     {
       "theme": "Club/Polémique",
@@ -755,14 +750,6 @@
     },
     {
       "theme": "Club/Polémique",
-      "text": "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton - maville.com. À lire dans la source avant tout partage. 🤾",
-      "source": "maville.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2o2djRBWUlMbklWMlpqRTZjOElfaEcySUFoVU50S3FwbnZuVWJFR3NaclhGeFhJLWRTenFwSVVXS2xFaHZhZ0xKd01YS0t3bThOLTNhSHZfOENvdlJ5b1pFNUZyNnRsNUpkal9KeGZDOVdfam1ZN2NvYmdad01MeDlPYVdPcmcxV0Ezall0MklsZEFERWpkVEJmaWNlTTZuOWRCbTJmckRFYUdwVVA5blBNSDc0OXlsa3Vfa2JkY1M1TC1ISG93?oc=5",
-      "risk": "Élevé",
-      "riskType": "high"
-    },
-    {
-      "theme": "Club/Polémique",
       "text": "Handball. Au HBC Nantes, le gardien et la défense ont donné le ton - Ouest-France. À lire dans la source avant tout partage. 🤾",
       "source": "Ouest-France",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVBjVlNDRUN5RTRpaWZmSjR1NF9jUVJPWm5temVxdWNxOEt2aEtUNXJocWoyY25ZVVZneWtaakR4XzhwbU9nUTJBeXFlWDdJaWdQSFJOcDRyNm1kRFJWWGp5MXBnNDFzQ19hZ1ctTG12dHA3SUdkWlctdUJUUU0yY3lzRGNjY0ZjcnBWZFJ0UzNBdWFwSG10aXBsRU5XSXhXck9NSU0zaUx1M1RLTVpHU0ZRNkwySFpiY3RMbGxQWms2dktmbnI4a1RRRS1SbUxPcUR5LTh3QjlsaUVJajVkd25QM3FnOW85N1h3?oc=5",
@@ -774,6 +761,14 @@
       "text": "HBC Nantes : La réserve en impeccable leader incontesté - Journal Nantes Sport. À lire dans la source avant tout partage. 🤾",
       "source": "Journal Nantes Sport",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFRSVzZIaUxaeS00T1ROd0NzLXZSSTlvUlk0Y0IwS25pUzVOVlVEc0RKWUFKMzZ6cm1yR3c5TUYyOGJMT0p0YkJPMWxIcmh1aUVkR3dpVS1tYko4aEFzY3YyRmpwVlltZVhVcUlxUF9jTWxTdGp6TjBOcEtiNmFLLWFR?oc=5",
+      "risk": "Élevé",
+      "riskType": "high"
+    },
+    {
+      "theme": "Club/Polémique",
+      "text": "Handball. HBC Nantes : Cinq semaines pour gagner, mais surtout se préparer - maville.com. À lire dans la source avant tout partage. 🤾",
+      "source": "maville.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcE5JbjhXM3lhZzdtRlRucEd4OFdZeXAwTGFQRmdkS0QyNGVFd2VCT3l3X21MXzZtd0NpMXkyTktPNkFHcG5SeWpMaXo4NkphcGdhcEhSNjVuR3JwY1l3THRtcW1yWUY2NEs0cmxQSlNhWlhoYUNiMlhpbTRLYXhNZDc2dXMzU2JVMXhfSUhvTWo1UTRSQmh2b04yNFhaUGpYRnRYakd5OWZuODhYamQ0dnpIZ3JkM1lQOUJCT3pod0hRTUNYLXhGWnc3Rjh1Q2xUTEp6bjh3?oc=5",
       "risk": "Élevé",
       "riskType": "high"
     }
